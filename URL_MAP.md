@@ -1,0 +1,67 @@
+# IEL Brand Kit - asset URLs
+
+Raw URLs (live once the repo is public).
+
+| Asset | URL |
+|---|---|
+| `.gitignore` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/.gitignore |
+| `Banners/IEL_Brand_Strip.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Brand_Strip.png |
+| `Banners/IEL_Icon_Square.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Icon_Square.png |
+| `Banners/IEL_Policies_Header.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Policies_Header.png |
+| `Brand/IEL_Avatar_Circle.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Brand/IEL_Avatar_Circle.png |
+| `Brand/IEL_Brand_Board.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Brand/IEL_Brand_Board.png |
+| `Brand/IEL_Email_Signature.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Brand/IEL_Email_Signature.png |
+| `Brand/IEL_Letterhead.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Brand/IEL_Letterhead.png |
+| `Brand/IEL_Pattern.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Brand/IEL_Pattern.png |
+| `Icons/iel_agreement.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_agreement.png |
+| `Icons/iel_audit.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_audit.png |
+| `Icons/iel_behaviour.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_behaviour.png |
+| `Icons/iel_checklist.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_checklist.png |
+| `Icons/iel_coi.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_coi.png |
+| `Icons/iel_communication.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_communication.png |
+| `Icons/iel_complaints.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_complaints.png |
+| `Icons/iel_compliance.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_compliance.png |
+| `Icons/iel_concerns.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_concerns.png |
+| `Icons/iel_consent.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_consent.png |
+| `Icons/iel_contact.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_contact.png |
+| `Icons/iel_continuity.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_continuity.png |
+| `Icons/iel_emergency.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_emergency.png |
+| `Icons/iel_feedback.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_feedback.png |
+| `Icons/iel_goals.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_goals.png |
+| `Icons/iel_governance.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_governance.png |
+| `Icons/iel_growth.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_growth.png |
+| `Icons/iel_ielway.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_ielway.png |
+| `Icons/iel_incident.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_incident.png |
+| `Icons/iel_invoicing.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_invoicing.png |
+| `Icons/iel_medication.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_medication.png |
+| `Icons/iel_neutrallane.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_neutrallane.png |
+| `Icons/iel_nursing.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_nursing.png |
+| `Icons/iel_participant.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_participant.png |
+| `Icons/iel_payroll.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_payroll.png |
+| `Icons/iel_people.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_people.png |
+| `Icons/iel_plan.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_plan.png |
+| `Icons/iel_policies.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_policies.png |
+| `Icons/iel_privacy.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_privacy.png |
+| `Icons/iel_quality.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_quality.png |
+| `Icons/iel_records.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_records.png |
+| `Icons/iel_recruitment.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_recruitment.png |
+| `Icons/iel_reference.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_reference.png |
+| `Icons/iel_reporting.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_reporting.png |
+| `Icons/iel_restrictive.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_restrictive.png |
+| `Icons/iel_reviewer.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_reviewer.png |
+| `Icons/iel_risk.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_risk.png |
+| `Icons/iel_roster.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_roster.png |
+| `Icons/iel_safeguarding.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_safeguarding.png |
+| `Icons/iel_scheduling.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_scheduling.png |
+| `Icons/iel_sil.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_sil.png |
+| `Icons/iel_strategy.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_strategy.png |
+| `Icons/iel_supervision.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_supervision.png |
+| `Icons/iel_training.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_training.png |
+| `Icons/iel_transport.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_transport.png |
+| `Icons/iel_whistleblower.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_whistleblower.png |
+| `Icons/iel_whs.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Icons/iel_whs.png |
+| `Logo/iel_logo_navy.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Logo/iel_logo_navy.png |
+| `Previews/IEL_Icon_Set2_Preview.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Previews/IEL_Icon_Set2_Preview.png |
+| `Previews/IEL_Icon_Set3_Preview.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Previews/IEL_Icon_Set3_Preview.png |
+| `Previews/IEL_Icon_Set_Preview.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Previews/IEL_Icon_Set_Preview.png |
+| `README.txt` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/README.txt |
