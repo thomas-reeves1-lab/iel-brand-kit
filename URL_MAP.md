@@ -65,3 +65,17 @@ Raw URLs (live once the repo is public).
 | `Previews/IEL_Icon_Set3_Preview.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Previews/IEL_Icon_Set3_Preview.png |
 | `Previews/IEL_Icon_Set_Preview.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Previews/IEL_Icon_Set_Preview.png |
 | `README.txt` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/README.txt |
+| `Favicons/apple-touch-icon.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/apple-touch-icon.png |
+| `Favicons/favicon-16.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/favicon-16.png |
+| `Favicons/favicon-32.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/favicon-32.png |
+| `Favicons/favicon-48.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/favicon-48.png |
+| `Favicons/favicon.ico` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/favicon.ico |
+| `Favicons/icon-128.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/icon-128.png |
+| `Favicons/icon-192.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/icon-192.png |
+| `Favicons/icon-256.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/icon-256.png |
+| `Favicons/icon-512.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/icon-512.png |
+| `Favicons/icon-64.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/icon-64.png |
+| `Favicons/iel-leaf-mark.jpg` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/iel-leaf-mark.jpg |
+| `Favicons/iel-mark-source.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/iel-mark-source.png |
+| `Favicons/iel-wordmark.jpg` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/iel-wordmark.jpg |
+| `Favicons/manifest.webmanifest` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/manifest.webmanifest |
