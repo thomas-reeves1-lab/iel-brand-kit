@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  pull_request:
+    branches: [main]
+  push:
+    branches: [main]
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      # Fails if brand_urls.json points at any asset that is missing or renamed —
+      # the app, welcome emails and Notion all hotlink these raw URLs.
+      - name: Validate brand URL map
+        run: python scripts/validate_brand_urls.py
