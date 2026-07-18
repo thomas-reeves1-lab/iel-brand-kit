@@ -9,7 +9,10 @@ longer exists, silently breaks images everywhere at once.
 This check fails (non-zero exit) if:
   - brand_urls.json is not valid JSON, or is missing "base"/"files";
   - any path listed under "files" (or "by_name") does not exist on disk;
-  - any listed URL does not resolve to base + path.
+  - any listed URL does not resolve to base + path;
+  - any image asset on disk is missing from "files" — drift the other way,
+    where an asset ships but never makes it into the map, so no consumer can
+    find it. (IEL_Brand_Strip1/2.png sat unmapped this way.)
 
 No third-party dependencies — standard library only.
 """
@@ -21,6 +24,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 MAP = ROOT / "brand_urls.json"
+ASSET_SUFFIXES = {".png", ".jpg", ".jpeg", ".svg", ".ico", ".webp"}
 
 
 def main() -> int:
@@ -65,6 +69,20 @@ def main() -> int:
         rel = str(url)[len(base):]
         if not (ROOT / rel).exists():
             errors.append(f"[by_name] {name}: file missing on disk: {rel}")
+
+    # Reverse direction: every image asset on disk must be in the files map.
+    mapped = set(data.get("files") or {})
+    for path in sorted(ROOT.rglob("*")):
+        if not path.is_file() or path.suffix.lower() not in ASSET_SUFFIXES:
+            continue
+        rel = path.relative_to(ROOT).as_posix()
+        if ".git/" in rel + "/" or rel.startswith(".git/"):
+            continue
+        checked += 1
+        if rel not in mapped:
+            errors.append(
+                f"[disk] asset is not in brand_urls.json, so nothing can link it: {rel}"
+            )
 
     if errors:
         print(f"FAIL: {len(errors)} problem(s) in brand_urls.json:")

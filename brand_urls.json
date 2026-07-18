@@ -3,6 +3,8 @@
   "files": {
     ".gitignore": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/.gitignore",
     "Banners/IEL_Brand_Strip.png": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Brand_Strip.png",
+    "Banners/IEL_Brand_Strip1.png": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Brand_Strip1.png",
+    "Banners/IEL_Brand_Strip2.png": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Brand_Strip2.png",
     "Banners/IEL_Icon_Square.png": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Icon_Square.png",
     "Banners/IEL_Policies_Header.png": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Policies_Header.png",
     "Brand/IEL_Avatar_Circle.png": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Brand/IEL_Avatar_Circle.png",
@@ -80,6 +82,8 @@
   "by_name": {
     ".gitignore": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/.gitignore",
     "IEL_Brand_Strip": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Brand_Strip.png",
+    "IEL_Brand_Strip1": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Brand_Strip1.png",
+    "IEL_Brand_Strip2": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Brand_Strip2.png",
     "IEL_Icon_Square": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Icon_Square.png",
     "IEL_Policies_Header": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Banners/IEL_Policies_Header.png",
     "IEL_Avatar_Circle": "https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Brand/IEL_Avatar_Circle.png",
