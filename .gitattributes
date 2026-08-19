@@ -1,0 +1,2 @@
+.githooks/pre-commit text eol=lf
+scripts/secret_scan.py text eol=lf

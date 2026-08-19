@@ -1,0 +1,4 @@
+#!/bin/sh
+# Estate secret + PII guard. Blocks commits that carry a real secret or hardcoded participant/staff data.
+# Enable once per clone:  git config core.hooksPath .githooks
+python scripts/secret_scan.py --staged || exit 1
