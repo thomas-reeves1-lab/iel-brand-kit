@@ -6,3 +6,20 @@ desktop.ini
 Thumbs.db
 .DS_Store
 .env
+# ── Secret backups, renames and copied git stores (estate secret sweep 9 Sep 2026) ──
+# On 9 Sep 2026 the auto-git stop hook committed a renamed Xero token file
+# (config/xero_tokens.json.consumed-bak-021605) because only the exact original
+# name was ignored. Every backup or rename shape of a secret is ignored here,
+# and so is a copied .git store, which can carry every secret ever committed.
+*.bak
+*.bak-*
+*-bak-*
+*.orig
+*.backup
+*.old
+*.consumed-*
+.env*
+!.env.*.example
+*.pem
+*.key
+.git.zeroed-*/
