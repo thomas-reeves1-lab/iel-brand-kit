@@ -79,3 +79,16 @@ Raw URLs (live once the repo is public).
 | `Favicons/iel-mark-source.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/iel-mark-source.png |
 | `Favicons/iel-wordmark.jpg` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/iel-wordmark.jpg |
 | `Favicons/manifest.webmanifest` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/manifest.webmanifest |
+| `Favicon/iel-favicon.ico` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicon/iel-favicon.ico |
+| `Favicon/iel-favicon.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicon/iel-favicon.png |
+| `Favicons/iel-favicon.ico` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/iel-favicon.ico |
+| `Favicons/iel-favicon.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Favicons/iel-favicon.png |
+| `Infographics/iel_compass_hero.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Infographics/iel_compass_hero.png |
+| `Infographics/iel_culture_band.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Infographics/iel_culture_band.png |
+| `Infographics/iel_role_clinical_rn.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Infographics/iel_role_clinical_rn.png |
+| `Infographics/iel_role_integrity_officer.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Infographics/iel_role_integrity_officer.png |
+| `Infographics/iel_role_support_worker.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Infographics/iel_role_support_worker.png |
+| `Infographics/iel_stop_medication_error.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Infographics/iel_stop_medication_error.png |
+| `Infographics/iel_stop_restrictive_practice.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Infographics/iel_stop_restrictive_practice.png |
+| `Infographics/iel_stop_someone_unsafe.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Infographics/iel_stop_someone_unsafe.png |
+| `Logo/iel-lotus.png` | https://raw.githubusercontent.com/thomas-reeves1-lab/iel-brand-kit/main/Logo/iel-lotus.png |
